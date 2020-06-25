@@ -1,5 +1,5 @@
 # commerical-web-site
-commercial web site spcialized in adverisment
+commercial web site spcialized in adverisment using React js
 
 ![Screenshot_2020-06-25 React App](https://user-images.githubusercontent.com/14044653/85628755-56b19c80-b679-11ea-9733-2c0ec043b294.png)
 
